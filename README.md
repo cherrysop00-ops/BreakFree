@@ -1,50 +1,73 @@
-# BreakFree: " A Science-Driven System to Permanently Break Smoking & Mobile Addiction ”
-BreakFree — Hackathon Project
+# BreakFree: A Science-Driven System to Permanently Break Smoking & Mobile Addiction
 
-A science-driven digital system to permanently break smoking & mobile addiction without fear, guilt, punishment or substitutes.
+BreakFree is a science-driven digital recovery system designed to permanently break **smoking** and **mobile addiction**—without fear, guilt, punishment, substitutes, or restrictions.  
+It combines **Allen Carr’s method**, **neuroscience**, **cognitive reframing**, and a **90-second craving-wave engine** to help users escape addiction from the inside out.
 
-# -> What BreakFree Does
+---
 
-Teaches smokers how to escape nicotine step-by-step
+## 🚀 What BreakFree Does
 
-Helps users handle cravings using a 90-second Craving Wave System
+- Teaches smokers how to **escape nicotine step-by-step**
+- Helps users handle cravings with a **90-second Craving Wave System**
+- Prevents relapse using **trigger prediction & identity rewiring**
+- Provides **family & friend support mode** with safe scripts
+- Offers **psychologist & ex-smoker guidance**
+- Follows **Allen Carr philosophy** (no fear, no substitutes, no punishment)
+- 100% guilt-free design — **no streaks, no shaming, no force**
+- Also supports **mobile addiction recovery** using dopamine-awareness tools
 
-Prevents relapse with trigger prediction
+---
 
-Provides family & friend support mode
+## 🧠 Tech Stack
 
-Offers psychologist & ex-smoker guidance
+**Frontend:** React Native  
+**Backend:** Node.js, Express.js  
+**Database:** PostgreSQL (with pgvector for behavioural memory)  
+**AI Coach:** LLM-based craving, relapse & emotional support  
+**Admin Panel:** React Web  
 
-Uses Allen Carr philosophy (no substitutes, no fear)
+---
 
-Guilt-free design — no streaks, no punishments, no restrictions
+## 📌 Current Status
 
-# -> Tech Stack
+This repository is for **hackathon submission**.  
+Prototype development is in progress.  
+Full source code will be uploaded as modules are completed.
 
-Frontend: React Native
-Backend: Node.js, Express.js
-Database: PostgreSQL (with pgvector)
-AI Coach: LLM-based craving & relapse support
-Admin Panel: React Web
+---
 
-# -> Current Status
+## 🎥 Demo Video
 
-This repository is for hackathon submission.
-Full code will be uploaded as the prototype is completed.
+A demo video will be added soon.
 
-# -> Demo
+---
 
-Demo video link will be added soon.
+## 🌐 App / Web Access
 
-# -> Website / App
+Mobile app is under development.  
+Web dashboard (admin panel) coming soon.
 
-Mobile app under development.
+---
 
-# ->Documents
+## 📁 Documents
 
-Project Abstract
+- Project Abstract (BreakFree_Abstract.docx)
+- System Architecture (coming soon)
+- User Flow Diagrams (coming soon)
+- Craving Wave Model (coming soon)
 
-System Design
+All documents will be available in the connected Google Drive folder.
 
-Flow Diagrams
-(Will be added in Google Drive)
+---
+
+## 📬 Contact
+
+**Project Lead:** Vuddavolu Varaha Venkata Sai Sri Charan  
+**Email:** cherrysop00@gmail.com  
+
+---
+
+## ⭐ Summary
+
+BreakFree is the first digital system built on the belief that **people don’t quit addiction—they escape it**.  
+By removing the psychological illusion behind cravings and replacing discipline-based methods with awareness and identity shift, BreakFree aims to redefine addiction recovery globally.
