@@ -1,4 +1,4 @@
-# BreakFree: science-driven system to break smoking & phone addiction.”
+# BreakFree: A Science-Driven System to Permanently Break Smoking & Mobile Addiction ”
 BreakFree — Hackathon Project
 
 A science-driven digital system to permanently break smoking & mobile addiction without fear, guilt, punishment or substitutes.
