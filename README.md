@@ -2,7 +2,7 @@
 
 BreakFree is a science-driven digital recovery system designed to permanently break **smoking** and **mobile addiction**—without fear, guilt, punishment, substitutes, or restrictions.  
 It combines **Allen Carr’s method**, **neuroscience**, **cognitive reframing**, and a **90-second craving-wave engine** to help users escape addiction from the inside out.
-BreakFree_Abstract[1].docx
+
 
 ---
 
