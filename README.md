@@ -39,7 +39,7 @@ Full source code will be uploaded as modules are completed.
 
 ## 🎥 Demo Video
 
-A demo video will be added soon.
+https://youtube.com/shorts/4QjpSNRauRg?si=LP5BcDFA5YcmAad_
 
 ---
 
